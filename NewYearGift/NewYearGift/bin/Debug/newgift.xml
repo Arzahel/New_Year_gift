@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Gift xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Christmas Gift</Name>
+  <Candies>
+    <Candy xsi:type="Marshmallow">
+      <Weight>230</Weight>
+      <Price>2.77</Price>
+      <Name>Domashniy</Name>
+      <Manufacturer>AirSweet</Manufacturer>
+      <SugarContent>50</SugarContent>
+      <Type>Pink</Type>
+    </Candy>
+    <Candy xsi:type="Chocolate">
+      <Weight>100</Weight>
+      <Price>3.44</Price>
+      <Name>Ritter Sport with coconut</Name>
+      <Manufacturer>Ritter Sport</Manufacturer>
+      <SugarContent>30</SugarContent>
+      <CacaoPercent>36</CacaoPercent>
+      <Kind>Milk</Kind>
+    </Candy>
+  </Candies>
+</Gift>

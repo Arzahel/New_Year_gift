@@ -1,0 +1,8 @@
+c:\users\temka\documents\visual studio 2015\Projects\NewYearGift\NewYearGift\bin\Debug\NewYearGift.exe.config
+E:\VS_Projects\NewYearGift\NewYearGift\bin\Debug\NewYearGift.exe.config
+E:\VS_Projects\NewYearGift\NewYearGift\bin\Debug\NewYearGift.exe
+E:\VS_Projects\NewYearGift\NewYearGift\bin\Debug\NewYearGift.pdb
+E:\VS_Projects\NewYearGift\NewYearGift\obj\Debug\NewYearGift.csprojResolveAssemblyReference.cache
+E:\VS_Projects\NewYearGift\NewYearGift\obj\Debug\NewYearGift.csproj.CoreCompileInputs.cache
+E:\VS_Projects\NewYearGift\NewYearGift\obj\Debug\NewYearGift.exe
+E:\VS_Projects\NewYearGift\NewYearGift\obj\Debug\NewYearGift.pdb
